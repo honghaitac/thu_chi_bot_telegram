@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gen-lang-client-0694174474",
+  "private_key_id": "491df1f60e0bb34d683a4eb8dbfe1acbeacca7dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDvKq3gDrbYIxTa\nYuGJWBBM3oLOuOQx+k5soFTXZZFJ+EB8Jq2klXcZ911hI5mh2Ox60wbbfkRsSOrI\nU60LbI4LhEmvY5VYQYVEnrNkjQdN8fq+TVvvx7FlJX4wqRVTzRcG0kMuZGqcnlO7\nzzkTMmhLAc3ZEuoifcyenPaJ4iRKUzgCNmGFfQbqJOKEHFChVlxtzkSNW/+4ECkX\n4BhE/6urmlVyXLR7D9KuzA13HW8nz/y3y4ffZuR2MQIgwLSv9/Xu+ojCkik7g84N\nPrViT/cITuAeOPRQBW/tLEgd6t2PAIUlaaAC8t3X/L2iY3O6PVwztQI5J+uxWhGO\n56hd2WOtAgMBAAECggEAMBNSccpLZ11/7Nk5EGBnIGiO/0prtn8kAhJlk4m7X5Tb\nM4mb2Ixh7VKLzwG2uXGvMY5XX8o9K04qAbxOOdBnqjl8jVi1ddDv3sgO8/ykVf75\nAgVvYF7yEgysFdB7NMXyZcDg18PAKXzrBILmbG0yyTcS35p9fZLvjYesSDGwzU6T\nIXFf5FLrvEU1uQrF5kCws09XJkFYU9xLZXCc4m3lDBpMaJapKvESyEPo8qyFwBYX\nMRwa4DjPKXqmHvLyimbXjkGCN2m9Q40Oos70HB0MI2ddKOwpffgie82Ez3H35+Y9\nFyYX6Op0RgIbZIdf0sKysoCyUPc4i2DJZfXbqTIpUQKBgQD8WAHPYErM9qrGNNxB\n/cLqFwUluob6TFNBevU+vOlp07UgkRa7nWEC0SOMa3nVVS2LzbBlbMkzNVzgSp2I\nBHoY4VwwVHiTNJRiQcCHk7lFU7Kh1ferrEW4rUqTvZv1vCBe2bhAD79Sr60JhHca\n/bp9IlMfL0CIKro8mAhrUXQFnQKBgQDyocu5v/m61r373ydIInbRiMyobb5xmlg2\n9N09mU75/I7S2sCZ8M4AdI7nAbCuM1qFQanXxsobmid4wumSWBbbZ4WqpWB1Rc7X\n9FQnF3tpKOZUKuBcTEpC5yv/flm2hV7rEnwQsuqIHLUiRdApnBenJFJM8+zFeo9b\nfwV9OTYBUQKBgQDaf63ZjcxXG4MVqvHJJlye653mZFO56VrxyPEQCO2nV8xvTZI8\nk/JLSSIZ1XoiEeYlNs51lDPHZn5sK8+p1g6O+pwjsRDSjeWqCrsV6gCzmdyEK0yQ\nVtPsLAj2Umj355Sz7JuQxNHqW/ld01h6g5b2AUGuL/EVtsGZ9B7eJiJrNQKBgAt+\n0OknCEzq2atyQikvwNNimNeuA2TcfCt2ZHkDp3M+nQGubYudlhT9cLvPH7DRLAu+\nNa7Mc0zle9ND4M8XL1YLzJBuL2i++vLOV6JWgXlU/7yjH2ggETCkRThgox17qiiX\nApvD7kqumYJbLmaaR6Canu+YavJcQSiDlx38tOtRAoGASlceCqCFgKEhf1Pm6fOU\nQUMlOGw9PqAZUPyDApRWnzUmMJOoManGxTU55JqukY6KpGdrO5Z4GNyB+7YuUqrE\nFbRnRIhK4WXpF5YRo7WlDjIV9s5k6M9RS6yqUFDIviODRSTHh14eo1Mc0GYLxGtu\nzvHuMDBA4t4LgM+7+kz+P8Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gemini-telebot@gen-lang-client-0694174474.iam.gserviceaccount.com",
+  "client_id": "117804531188243293123",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gemini-telebot%40gen-lang-client-0694174474.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
