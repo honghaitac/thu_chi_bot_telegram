@@ -4,3 +4,5 @@ aiohttp
 md2tgmd
 unidecode
 python-dotenv
+gspread
+oauth2client
